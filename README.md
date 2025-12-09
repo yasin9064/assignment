@@ -47,16 +47,16 @@ A two-screen Flutter experience inspired by the reference onboarding. The first 
   <img src="assets/Screenshot_1765287130.png" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20112846.png" width="260"/>
+  <img src="assets/Screenshot_1765287133.png" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20113106.png" width="260"/>
+  <img src="assets/Screenshot_1765287135.png" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20113106.png" width="260"/>
+  <img src="assets/Screenshot_1765287138.png" width="260"/>
 </td>
 <td>
-  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20113106.png" width="260"/>
+  <img src="assets/Screenshot_1765287141.png" width="260"/>
 </td>
 
 </table>
