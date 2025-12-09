@@ -54,6 +54,7 @@ class AdventureScreen extends StatelessWidget {
                   child: ListView(
                     padding: const EdgeInsets.symmetric(horizontal: 20),
                     children: [
+                      // Hero handoff from onboarding character into the quest deck.
                       Hero(
                         tag: slide.heroTag,
                         child: slide.characterBuilder(1),

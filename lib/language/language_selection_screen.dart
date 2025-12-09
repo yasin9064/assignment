@@ -57,6 +57,7 @@ class LanguageSelectionScreen extends StatelessWidget {
                   ),
                 ),
                 const Spacer(),
+                // Placeholder speech bubble to mirror the provided design.
                 _SpeechBubble(),
                 const SizedBox(height: 12),
                 SizedBox(
