@@ -29,3 +29,35 @@ A two-screen Flutter experience inspired by the reference onboarding. The first 
 - Colors and typography use a shared theme via `google_fonts`.
 - Layout is portrait-locked to mirror the reference. Remove the orientation lock in `main.dart` if landscape support is desired.
 - All assets are generated in-code; if you prefer custom illustrations, drop PNG/SVGs into `assets/` and swap the character builders.
+
+
+# flutter_apk
+
+<table>
+
+<tr>
+  <th>1st View</th>
+  <th>2nd View</th>
+  <th>3rd View</th>
+  <th>4th View</th>
+  <th>5th View</th>
+</tr>
+
+<td>
+  <img src="https://github.com/yasin9064/myapp/blob/e980accd280a99fe3c90b9fa98c431eb1d80d1a9/Screenshot%202025-10-28%20112827.png" width="260"/>
+</td>
+<td>
+  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20112846.png" width="260"/>
+</td>
+<td>
+  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20113106.png" width="260"/>
+</td>
+<td>
+  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20113106.png" width="260"/>
+</td>
+<td>
+  <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20113106.png" width="260"/>
+</td>
+
+</table>
+
