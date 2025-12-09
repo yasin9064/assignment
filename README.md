@@ -44,7 +44,7 @@ A two-screen Flutter experience inspired by the reference onboarding. The first 
 </tr>
 
 <td>
-  <img src="https://github.com/yasin9064/myapp/blob/e980accd280a99fe3c90b9fa98c431eb1d80d1a9/Screenshot%202025-10-28%20112827.png" width="260"/>
+  <img src="assets/Screenshot_1765287130.png" width="260"/>
 </td>
 <td>
   <img src="https://github.com/yasin9064/myapp/blob/1e24ba74dab65c592ca41941fb8a7023eaa4c621/Screenshot%202025-10-28%20112846.png" width="260"/>
